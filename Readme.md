@@ -13,4 +13,5 @@ Given a record of every transaction during a three month period, calculate the r
 npm start 
 # If incase it didn't start, you can run it as follows:
 npm i react-table
+
 npm start
