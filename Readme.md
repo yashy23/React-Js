@@ -8,10 +8,14 @@ Given a record of every transaction during a three month period, calculate the r
 
 · Use React JS
 
-#You can run the app at port 3000 to view it in the browser
-#In the project folder you can start the project by this command
+You can run the app at port 3000 to view it in the browser
+
+In the project folder you can start the project by this command
+
 npm start 
-#If incase it didn't start, you can run it as follows:
+
+If incase it didn't start, you can run it as follows:
+
 npm i react-table
 
 npm start
